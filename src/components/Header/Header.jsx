@@ -43,7 +43,7 @@ export default function ProminentAppBar() {
             <MenuIcon />
           </IconButton>
           <Typography className={classes.title} variant="h5" noWrap>
-            Material-UI
+            COVID-19 Statistics
           </Typography>
           <IconButton aria-label="search" color="inherit">
             <SearchIcon />
